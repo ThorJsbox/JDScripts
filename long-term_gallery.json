@@ -55,5 +55,7 @@
     {"config":"15 0,6,13,19,21 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/ddo_pk.js, tag=京享值PK, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
     {"config":"30 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_SplitRedPacket.js, tag=天降红包, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"}, 
     {"config":"1 8,12,18 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_bookshop.js, tag=口袋书店, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"}, 
+    {"config":"1 8,12,18 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_unbind.js, tag=注销京东会员卡, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
+    {"config":"1 8,12,18 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jdczf.js, tag=京东成长分, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
   ]
 }
