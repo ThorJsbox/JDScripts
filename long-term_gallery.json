@@ -54,5 +54,6 @@
     {"config":"0 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_xxl.js, tag=东东爱消除, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
     {"config":"15 0,6,13,19,21 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/ddo_pk.js, tag=京享值PK, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
     {"config":"30 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_SplitRedPacket.js, tag=天降红包, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"}, 
+    {"config":"1 8,12,18 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_bookshop.js, tag=口袋书店, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"}, 
   ]
 }
