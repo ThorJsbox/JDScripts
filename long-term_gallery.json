@@ -58,5 +58,6 @@
     {"config":"11 20 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_unbind.js, tag=注销京东会员卡, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
     {"config":"1 1 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jdczf.js, tag=京东成长分, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
     {"config":"1 16 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_try.js, tag=京东试用, enabled=false", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
+    {"config":"3 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_wxj.js, tag=全民挖现金, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
   ]
 }
