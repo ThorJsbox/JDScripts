@@ -1,6 +1,6 @@
 {
  "name": "task gallery",
- "description": "https://bean.m.jd.com/bean/signindex.action",
+ "description": "https://bean.m.jd.com/",
  "task": [
     {"config":"2 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_bean_change.js, tag=京东资产变动通知, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
     {"config":"10 7 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_bean_home.js, tag=领京豆额外奖励, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
