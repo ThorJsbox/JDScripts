@@ -60,5 +60,9 @@
     {"config":"1 1 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jdczf.js, tag=京东成长分, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
     {"config":"1 16 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_try.js, tag=京东试用, enabled=false", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
     {"config":"3 9 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_wxj.js, tag=全民挖现金, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
+    {"config":"0 9,12,18 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jx_nc.js, tag=京喜农场, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
+    {"config":"10 * * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_dreamFactory.js, tag=京喜工厂, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
+    {"config":"5 8,13,19 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jd_cfd.js, tag=京喜财富岛, enabled=false", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
+    {"config":"3 0 * * * https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/long-term/jx_sign.js, tag=京喜签到, enabled=true", "addons":"https://ghproxy.com/https://raw.githubusercontent.com/ThorJsbox/JDScripts/main/cookies.conf"},
   ]
 }
